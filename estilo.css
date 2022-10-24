@@ -1,3 +1,21 @@
-body{ background-color: black;}
-body{ color: white;}
-.header{ background-color: #f850ce;}
+body{
+     background-color: black;
+    color: white;
+    margin: 0;
+    }
+
+.header{ 
+    background-color: #f51ebf;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header a{ color: rgb(255, 254, 253);
+    font-size: 140%;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{ font-size: 300%;}
